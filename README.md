@@ -1,6 +1,10 @@
 # Full Stack Food Ordering Web Application
 
 This Full Stack Food Ordering Web Application project is designed to streamline the process of ordering food online. It includes three main components: frontend, backend, and admin panel. Below are the commands to start each part of the project:
+<img width="956" height="503" alt="image" src="https://github.com/user-attachments/assets/fba9574c-9564-45d9-8cf1-8692c68a7f52" />
+<img width="952" height="413" alt="image" src="https://github.com/user-attachments/assets/2cba119f-0ec7-49ce-b9d9-2633cb52ce92" />
+
+
 
 ### Starting the Backend Server
 To start the backend server, run the following command:
